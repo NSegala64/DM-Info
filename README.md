@@ -7,3 +7,5 @@ Création d'un jeu du type "World's hardest game".
 Le jeu se joue avec les touches directionnelles et consiste à traverser des niveaux en 2D, tout en évitant les obstacles (comme 99% des jeux).
 
 Pour cela nous, utiliserons OCaml et son module Graphics.
+
+Edit : Début du projet
